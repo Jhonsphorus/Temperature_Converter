@@ -1,0 +1,10 @@
+name: temperature_converter
+title:
+username:
+account: jhonsphorus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1678099
+bundleId: 2743123
+url: https://jhonsphorus.shinyapps.io/temperature_converter/
+when: 1579598384.63438
